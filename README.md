@@ -40,7 +40,7 @@ A fully functional **prediction market platform** inspired by [Polymarket](https
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/polymarket-clone.git
+git clone https://github.com/zeryswin168/polymarket-clone.git
 cd polymarket-clone
 
 # Install dependencies
@@ -140,8 +140,9 @@ The complete production-ready platform includes:
 
 For the full version, deployment support, or custom development:
 
-- **Email**: your-email@example.com
-- **Telegram**: @yourhandle
+- **Telegram**: [@haodehao68](https://t.me/haodehao68)
+- **WhatsApp**: [+852 9700 7397](https://wa.me/85297007397)
+- **WeChat**: zeryshao666
 
 ---
 
@@ -176,3 +177,7 @@ If you find this useful, please give it a ⭐ — it helps others discover this 
 **关键词**: 预测市场, Polymarket 克隆, 区块链博彩, 去中心化, 智能合约, 链上投注, Web3 预测, 加密货币, USDT 托管, Polygon, DeFi, 开源预测平台, 二元期权, 事件预测
 
 **完整版请联系我们获取**，包含后端源码、管理后台、合约部署脚本、技术支持。
+
+- **Telegram**: [@haodehao68](https://t.me/haodehao68)
+- **WhatsApp**: [+852 9700 7397](https://wa.me/85297007397)
+- **微信**: zeryshao666

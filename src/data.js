@@ -1,4 +1,4 @@
-export const CONTACT_MSG = '🔒 Full-featured version available!\n\nFor the complete prediction market platform with:\n✅ On-chain USDT escrow (Polygon)\n✅ Smart contract settlement\n✅ Admin dashboard\n✅ Mobile APP (Android/iOS)\n✅ Multi-language support\n\n📧 Contact: your-email@example.com\n💬 Telegram: @yourhandle'
+export const CONTACT_MSG = '🔒 Full-featured version available!\n\nFor the complete prediction market platform with:\n✅ On-chain USDT escrow (Polygon)\n✅ Smart contract settlement\n✅ Admin dashboard\n✅ Mobile APP (Android/iOS)\n✅ Multi-language support\n\n💬 Telegram: @haodehao68\n📱 WhatsApp: +852 9700 7397\n💬 WeChat: zeryshao666'
 
 export const mockEvents = [
   {
